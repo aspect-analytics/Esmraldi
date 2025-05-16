@@ -6,3 +6,4 @@ sphinx-autoapi
 jupyter_client
 ipykernel
 ipython
+tornado>=6.5 # not directly required, pinned by Snyk to avoid a vulnerability
